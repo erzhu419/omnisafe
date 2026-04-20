@@ -1,0 +1,24 @@
+# Experiment results (large model checkpoints)
+results_*/
+paper_results/
+test_sign_before_regnorm/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# LaTeX build artifacts
+paper/*.aux
+paper/*.log
+paper/*.bbl
+paper/*.blg
+paper/*.out
+paper/*.toc
+paper/*.pdf
+
+# Jupyter
+*.ipynb_checkpoints/
+
+# OS
+.DS_Store

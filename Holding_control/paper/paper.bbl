@@ -1,0 +1,94 @@
+\begin{thebibliography}{10}
+
+\bibitem{Daganzo2009Headway}
+Carlos~F. Daganzo.
+\newblock A headway-based approach to eliminate bus bunching: {Systematic}
+  analysis and comparisons.
+\newblock {\em Transportation Research Part B: Methodological},
+  43(10):913--921, 2009.
+
+\bibitem{Xuan2011Dynamic}
+Yiguang Xuan, Juan Argote, and Carlos~F. Daganzo.
+\newblock Dynamic bus holding strategies for schedule reliability: {Optimal}
+  linear control and performance analysis.
+\newblock {\em Transportation Research Part B: Methodological},
+  45(10):1831--1845, 2011.
+
+\bibitem{Eberlein2001Holding}
+Xu~Jun Eberlein, Nigel H.~M. Wilson, and David Bernstein.
+\newblock The holding problem with real-time information available.
+\newblock {\em Transportation Science}, 35(1):1--18, 2001.
+
+\bibitem{Wang2020DynamicHolding}
+Jiawei Wang and Lijun Sun.
+\newblock Dynamic holding control to avoid bus bunching: {A} multi-agent deep
+  reinforcement learning framework.
+\newblock {\em Transportation Research Part C: Emerging Technologies},
+  116:102661, 2020.
+
+\bibitem{Zhang2025SingleAgentBus}
+Yifan Zhang and Liang Zheng.
+\newblock Single agent robust deep reinforcement learning for bus fleet
+  control.
+\newblock {\em arXiv preprint}, 2025.
+
+\bibitem{Altman1999Constrained}
+Eitan Altman.
+\newblock {\em Constrained {Markov} Decision Processes}.
+\newblock Chapman \& Hall/CRC, 1999.
+
+\bibitem{Stooke2020Responsive}
+Adam Stooke, Joshua Achiam, and Pieter Abbeel.
+\newblock Responsive safety in reinforcement learning by {PID} {Lagrangian}
+  methods.
+\newblock In {\em International Conference on Machine Learning (ICML)}, 2020.
+
+\bibitem{An2021UncertaintyEnsemble}
+Gaon An, Seungyong Moon, Jang-Hyun Kim, and Hyun~Oh Song.
+\newblock Uncertainty-based offline reinforcement learning with diversified
+  {Q}-ensemble.
+\newblock In {\em Advances in Neural Information Processing Systems (NeurIPS)},
+  2021.
+
+\bibitem{Chen2021GraphRL}
+Weiyu Chen and Lijun Sun.
+\newblock Graph reinforcement learning for bus holding control.
+\newblock {\em Transportation Research Part C: Emerging Technologies}, 2021.
+
+\bibitem{Ray2019Benchmarking}
+Alex Ray, Joshua Achiam, and Dario Amodei.
+\newblock Benchmarking safe exploration in deep reinforcement learning.
+\newblock {\em arXiv preprint arXiv:1910.01708}, 2019.
+
+\bibitem{Tessler2019RewardConstrained}
+Chen Tessler, Daniel~J. Mankowitz, and Shie Mannor.
+\newblock Reward constrained policy optimization.
+\newblock In {\em International Conference on Learning Representations (ICLR)},
+  2019.
+
+\bibitem{Chow2017RiskConstrained}
+Yinlam Chow, Mohammad Ghavamzadeh, Lucas Janson, and Marco Pavone.
+\newblock Risk-constrained reinforcement learning with percentile risk
+  criteria.
+\newblock In {\em Journal of Machine Learning Research}, volume~18, pages
+  1--51, 2017.
+
+\bibitem{Ji2023OmniSafe}
+Jiaming Ji, Borong Zhou, Jiayi Pan, et~al.
+\newblock {OmniSafe}: An infrastructure for accelerating safe reinforcement
+  learning research.
+\newblock {\em arXiv preprint arXiv:2305.09304}, 2023.
+
+\bibitem{Osband2016BootstrappedDQN}
+Ian Osband, Charles Blundell, Alexander Pritzel, and Benjamin Van~Roy.
+\newblock Deep exploration via bootstrapped {DQN}.
+\newblock In {\em Advances in Neural Information Processing Systems (NeurIPS)},
+  2016.
+
+\bibitem{Haarnoja2018SAC}
+Tuomas Haarnoja, Aurick Zhou, Pieter Abbeel, and Sergey Levine.
+\newblock Soft actor-critic: Off-policy maximum entropy deep reinforcement
+  learning with a stochastic actor.
+\newblock In {\em International Conference on Machine Learning (ICML)}, 2018.
+
+\end{thebibliography}
