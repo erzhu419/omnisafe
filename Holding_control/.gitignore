@@ -2,6 +2,8 @@
 results_*/
 paper_results/
 test_sign_before_regnorm/
+Holding_control/results_*/
+Holding_control/paper_results/
 
 # Python cache
 __pycache__/
